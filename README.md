@@ -40,8 +40,7 @@
   * Family、Animation、Fantasy雖然市場發行量不高，分別為2.9%、1.9%、3.8%,但卻為市場創造5.1%、3.8%、7.3%的收入。屬於投報率較高的類型。
 
 ### 市場觀察4：前五大片商與非前五大片商的選片策略
-1. Universal Pictures：於2010s年代市占率為5大片商最高，市占率3.01%。
-`市場投入策略為Action(19.4%)、Thriller(14.5%)、Comedy(10.9%)、Crime(9.1%)、Adventure(8.8%),前五大類型共計佔比62.7%。Action、Thriller、Adventure與市場前五大趨勢相符;另外又著重市場細分領域：Comedy和Crime，但此類型電影投報率較差。`
+    1.Universal Pictures：於2010s年代市占率為5大片商最高，市占率3.01%。`市場投入策略為Action(19.4%)、Thriller(14.5%)、Comedy(10.9%)、Crime(9.1%)、Adventure(8.8%),前五大類型共計佔比62.7%。Action、Thriller、Adventure與市場前五大趨勢相符;另外又著重市場細分領域：Comedy和Crime，但此類型電影投報率較差。`
 
 2. Walt Disney Picture：於2010s年代市占率為5大片商最第二位，市占率為2.9%。
   專注於Adventure(21%)、Family(18.5%)、Action(13.9%)、Animation(12.2%)、Fantasy(11.5%)、Comedy(10.4%)，前五大類型共計佔比77.1%。其中Adventure和Action與市場趨勢相符，其餘類型鎖定特定細分市場，專注於Family、Animation、Fantasy，此類投報率較高的類型電影。`
