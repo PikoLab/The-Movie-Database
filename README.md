@@ -44,10 +44,10 @@
 `市場投入策略為Action(19.4%)、Thriller(14.5%)、Comedy(10.9%)、Crime(9.1%)、Adventure(8.8%),前五大類型共計佔比62.7%。Action、Thriller、Adventure與市場前五大趨勢相符;另外又著重市場細分領域：Comedy和Crime，但此類型電影投報率較差。`
 
 2. Walt Disney Picture：於2010s年代市占率為5大片商最第二位，市占率為2.9%。
-`專注於Adventure(21%)、Family(18.5%)、Action(13.9%)、Animation(12.2%)、Fantasy(11.5%)、Comedy(10.4%)，前五大類型共計佔比77.1%。其中Adventure和Action與市場趨勢相符，其餘類型鎖定特定細分市場，專注於Family、Animation、Fantasy，此類投報率較高的類型電影。`
+  專注於Adventure(21%)、Family(18.5%)、Action(13.9%)、Animation(12.2%)、Fantasy(11.5%)、Comedy(10.4%)，前五大類型共計佔比77.1%。其中Adventure和Action與市場趨勢相符，其餘類型鎖定特定細分市場，專注於Family、Animation、Fantasy，此類投報率較高的類型電影。`
 
 3. Warner Bros：於2010s年代市占率為5大片商最第三位，市占率為2.85%。
-`專注於Action(18.6%)、Adventure(13.4%)、Drama(11.9%)、Science Fiction(11.5%)、Thriller(9.9%)，前五大類型共計佔比65.3%。其中含有投報率較低的Drama和Thriller`
+  專注於Action(18.6%)、Adventure(13.4%)、Drama(11.9%)、Science Fiction(11.5%)、Thriller(9.9%)，前五大類型共計佔比65.3%。其中含有投報率較低的Drama和Thriller`
 
 4. Paramount Pictures：於2010s年代市占率為5大片商最第四位，市占率為2.56%。
 `專注於Adventure(20.1%)、Action(19.0%)、Science Fiction(14.6%)、Drama(10%)、Thriller(8.9%)，前五大類型共計佔比72.6%。其中含有投報率較低的Drama和Thriller`
