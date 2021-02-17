@@ -66,7 +66,7 @@
 1. 在越來越競爭的電影市場中，選擇投報率較高(觀察指標：市場發行量佔比<市場收入佔比)的電影類型是影響市占率的重要因素，
   * 投報率較差的電影類型：(市場發行量佔比>市場收入佔比)，包括Drama、Thriller、Comedy、Crime。
   * 投報率較佳的電影類型：(市場發行量佔比<市場收入佔比)，包括Action、Adventure、Science Fiction、Animation、Family、Fantasy。
-  * 市占率第一和第二的Universal Pictures和Walt Disney Picture的選片原則都是以投報率較高的電影類型作為主要選擇，且投報率低。
+  * 市占率第一和第二的Universal Pictures和Walt Disney Picture的選片原則都是以投報率較高的電影類型作為主要選擇。
   * 市占率第三和第四的Paramount Pictures和Warner Bros.以及非前五大片商，影片類型選擇包含投報率較低的Drama和Thriller，且佔該公司於2010s年投入電影資源的20%左右。
   * 唯Twentieth Century Fox Film Corporation，雖然選片原則也是投報率較高的電影，僅有Comedy為投報率較低，其市占率僅位居於第五，是為例外。
 
